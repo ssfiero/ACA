@@ -1,2 +1,0 @@
-# ACA
-Austin Coding Academy
